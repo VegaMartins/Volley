@@ -15,7 +15,7 @@ class FooterTextStyle extends StatelessWidget {
           label,
           style: const TextStyle(
             fontFamily: 'ConcertOne',
-            fontSize: 25,
+            fontSize: 26,
             color: AppColors.lightText,
             fontWeight: FontWeight.bold,
           ),
@@ -25,7 +25,7 @@ class FooterTextStyle extends StatelessWidget {
           value,
           style: const TextStyle(
             fontFamily: 'ConcertOne',
-            fontSize: 25,
+            fontSize: 28,
             color: AppColors.blueText,
             fontWeight: FontWeight.bold,
           ),
