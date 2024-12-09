@@ -11,7 +11,7 @@ class GeneralScoreScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: AppColors.primary,
+      backgroundColor: AppColors.primary, 
       body: SafeArea(
         child: Column(
           children: [
@@ -22,9 +22,15 @@ class GeneralScoreScreen extends StatelessWidget {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [                  
-                    BarChart(),                                  
-                    team_score(),                                                         
-                    TeamTime(),
+                    Padding(
+                     padding: const EdgeInsets.only(top: 30.0),
+                     child: BarChart(), 
+                    ),                                 
+                    team_score(),                                                                             
+                    Padding(
+                     padding: const EdgeInsets.only(top: 30.0),
+                     child: TeamTime(),
+                    ),
                   ],
                 ),
               ),
