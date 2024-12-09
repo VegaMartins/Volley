@@ -17,7 +17,7 @@ class BarChart extends StatelessWidget {
           child: const Icon(
             Icons.bar_chart,
             color: AppColors.lightText,
-            size: 32,
+            size: 28,
           ),
         ),
       ),
