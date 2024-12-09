@@ -13,7 +13,7 @@ class OveralScoreText extends StatelessWidget {
       "PLACAR GERAL",
       style: TextStyle(
         fontFamily: 'ConcertOne',
-        fontSize: 24,
+        fontSize: 28,
         fontWeight: FontWeight.bold,
         color: AppColors.blueText,
       ),
