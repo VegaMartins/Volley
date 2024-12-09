@@ -1,0 +1,1 @@
+ /home/vega/Área\ de\ trabalho/app_volley_refatorado/.dart_tool/flutter_build/fe3ff8668081784cf05cd22260ec9d65/native_assets.yaml: 

@@ -1,0 +1,16 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/current/usr/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/snap/flutter/current/usr/bin/ld: /lib/x86_64-linux-gnu/libm.so.6: tipo desconhecido [0x13], secção ".relr.dyn"
+/snap/flutter/current/usr/bin/ld: pulando /lib/x86_64-linux-gnu/libm.so.6 incompatível ao pesquisar para /lib/x86_64-linux-gnu/libm.so.6
+/snap/flutter/current/usr/bin/ld: cannot find /lib/x86_64-linux-gnu/libm.so.6
+/snap/flutter/current/usr/bin/ld: /lib/x86_64-linux-gnu/libmvec.so.1: tipo desconhecido [0x13], secção ".relr.dyn"
+/snap/flutter/current/usr/bin/ld: pulando /lib/x86_64-linux-gnu/libmvec.so.1 incompatível ao pesquisar para /lib/x86_64-linux-gnu/libmvec.so.1
+/snap/flutter/current/usr/bin/ld: cannot find /lib/x86_64-linux-gnu/libmvec.so.1
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+

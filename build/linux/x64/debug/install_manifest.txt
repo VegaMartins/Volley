@@ -1,0 +1,15 @@
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/app_volley
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/assets/font/ConcertOne-Regular.ttf
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/ball.png
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/assets/icon/icon.png
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/vega/Área de trabalho/app_volley_refatorado/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
