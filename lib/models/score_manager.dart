@@ -23,6 +23,7 @@ class _ScoreManagerState extends State<ScoreManager> {
 
   void _incrementScore(String team) {
     setState(() {
+
       if (team == "A") {
         scoreTeamA++;
         ballOnTeamA = true;
@@ -31,8 +32,9 @@ class _ScoreManagerState extends State<ScoreManager> {
         ballOnTeamA = false;
       }
 
-      if (scoreTeamA >= 25 || scoreTeamB >= 25) {
-        _showWinnerModal(scoreTeamA >= 25 ? "Ziraldos" : "Autoconvidados");
+      if ((scoreTeamA >= 25 || scoreTeamB >= 25) &&
+          (scoreTeamA - scoreTeamB).abs() >= 2) {
+        _showWinnerModal(scoreTeamA > scoreTeamB ? "Ziraldos" : "Autoconvidados");
       }
     });
   }
