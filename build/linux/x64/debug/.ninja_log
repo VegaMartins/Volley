@@ -1,106 +1,80 @@
 # ninja log v5
-10052	10712	1733707142113957584	intermediates_do_not_run/app_volley	20619e8c02c25f1b
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
+16720	22789	1733857569893506925	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
+10	16717	0	flutter/_phony_	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
+16722	22540	1733857569630506621	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
 32517	36068	1733663105002594931	CMakeFiles/app_volley.dir/main.cc.o	749b7b97785022a7
-8581	9956	1733707141345963472	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
-8580	10052	1733707141447962690	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
-7	8579	0	flutter/_phony_	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
-10712	10976	0	CMakeFiles/install.util	d5009d7a6b244e27
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
-7	8579	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
-209	14600	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
-209	14600	0	flutter/_phony_	e6f18d0673de6107
-14603	19091	1733746879254553803	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
-14601	19346	1733746879513629034	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
-19346	20773	1733746880939041812	intermediates_do_not_run/app_volley	20619e8c02c25f1b
-20775	21412	0	CMakeFiles/install.util	d5009d7a6b244e27
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
-19	14988	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
-19	14988	0	flutter/_phony_	e6f18d0673de6107
-14990	17518	1733754800945625785	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
-14989	17701	1733754801145623815	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
-17701	18918	1733754802363611847	intermediates_do_not_run/app_volley	20619e8c02c25f1b
-18918	19498	0	CMakeFiles/install.util	d5009d7a6b244e27
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
-215	18495	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
-215	18495	0	flutter/_phony_	e6f18d0673de6107
-18497	24454	1733763513619654952	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
-18496	24670	1733763513833676783	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
-24670	26433	1733763515599861982	intermediates_do_not_run/app_volley	20619e8c02c25f1b
-26433	27143	0	CMakeFiles/install.util	d5009d7a6b244e27
+22789	24150	1733857571260508506	intermediates_do_not_run/app_volley	20619e8c02c25f1b
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
+24150	25174	0	CMakeFiles/install.util	d5009d7a6b244e27
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
+10	16717	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
+11	15596	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
+11	15596	0	flutter/_phony_	e6f18d0673de6107
+15598	17890	1733858264708683033	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
+15597	18103	1733858264924713668	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
+18103	18592	1733858265414783068	intermediates_do_not_run/app_volley	20619e8c02c25f1b
+18592	19231	0	CMakeFiles/install.util	d5009d7a6b244e27
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/libflutter_linux_gtk.so	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_value.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/fl_view.h	e6f18d0673de6107
+13	7836	0	/home/vega/Área de trabalho/app_volley_refatorado/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e6f18d0673de6107
+13	7836	0	flutter/_phony_	e6f18d0673de6107
+7841	10237	1733858626270687907	CMakeFiles/app_volley.dir/flutter/generated_plugin_registrant.cc.o	1f068330b254b264
+7838	10281	1733858626313691393	CMakeFiles/app_volley.dir/my_application.cc.o	36d1b78803f8a1f3
+10282	10793	1733858626833733547	intermediates_do_not_run/app_volley	20619e8c02c25f1b
+10794	11794	0	CMakeFiles/install.util	d5009d7a6b244e27
