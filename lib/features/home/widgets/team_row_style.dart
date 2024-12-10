@@ -21,20 +21,20 @@ class TeamRowStyle extends StatelessWidget {
         children: [
           Text(
             teamName,
-            style: globalTextStyle.copyWith(fontSize: 32, color: AppColors.yellowText),
+            style: globalTextStyle.copyWith(fontSize: 32.5, color: AppColors.yellowText),
           ),
           const SizedBox(width: 10),
           Text(
             '$teamNumber',
             style: globalTextStyle.copyWith(
-                fontSize: 65, color: AppColors.blueText,),
+                fontSize: 65, color: AppColors.blueText, height: 0.9,),
           ),
           RotatedBox(
             quarterTurns: 3,
             child: Text(
               'Jogadores',
               style: globalTextStyle.copyWith(
-                  fontSize: 10, color: AppColors.blueText,),
+                  fontSize:9, color: AppColors.blueText,),
             ),
           ),
         ],

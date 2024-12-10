@@ -10,10 +10,10 @@ class GeneralScoreScreen extends StatelessWidget {
   const GeneralScoreScreen({super.key});
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: AppColors.primary, 
-      body: SafeArea(
-        child: Column(
+    return SafeArea(
+      child: Scaffold(
+        backgroundColor: AppColors.primary, 
+        body: Column(
           children: [
             IconsGeneralScore(),
             Flexible(

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'team_row_style.dart';
+
 class TeamRow extends StatelessWidget {
   const TeamRow({super.key});
 
@@ -13,7 +14,7 @@ class TeamRow extends StatelessWidget {
           TeamRowStyle(teamName: 'Sicranos', teamNumber: 3),
           TeamRowStyle(teamName: 'Autoconvidados', teamNumber: 3),
           TeamRowStyle(teamName: 'Ziraldos', teamNumber: 5),
-          TeamRowStyle(teamName: 'Sparings', teamNumber: 4),
+          TeamRowStyle(teamName: 'Sparrings', teamNumber: 4),
         ],
       ),
     );

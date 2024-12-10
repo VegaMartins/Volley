@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../scoreboard/screens/scoreboard_screen.dart';
 import '../../../shared/widgets/generic_button.dart';
 

@@ -17,7 +17,7 @@ class RotatedTeamsLabel extends StatelessWidget {
           quarterTurns: 3,
           child: Container(
             decoration: BoxDecoration(
-              color: AppColors.lightText.withOpacity(0.5),
+              color: AppColors.lightText.withOpacity(0.3),
               border: Border.all(color: AppColors.lightText, width: 3),
             ),
             padding: const EdgeInsets.symmetric(horizontal: 75),

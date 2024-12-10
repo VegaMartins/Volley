@@ -19,10 +19,10 @@ class ScoreboardScreen extends StatelessWidget {
       onPopInvokedWithResult: (popDisposition, result) async {
         resetToPortraitOrientation();
       },
-      child: Scaffold(
-        backgroundColor: AppColors.primary,
-        body: SafeArea(
-          child: ScoreManager(
+      child: SafeArea(
+        child: Scaffold(
+          backgroundColor: AppColors.primary,
+          body: ScoreManager(
             builder: (
               context,
               int scoreTeamA,

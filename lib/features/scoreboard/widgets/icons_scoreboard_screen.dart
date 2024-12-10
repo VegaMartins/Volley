@@ -25,8 +25,7 @@ class IconsScoreboard extends StatelessWidget {
           ),
           IconButton(
             icon: const Icon(Icons.settings, color: AppColors.lightText),
-            padding: EdgeInsets.zero,
-            
+            padding: EdgeInsets.zero,            
             onPressed: () {},
           ),
         ],
